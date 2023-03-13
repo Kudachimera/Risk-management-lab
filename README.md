@@ -1,15 +1,16 @@
 
 
-<h1> Cyber Security Risk Management using NIST SP 800-30 </h1>
+<h1> IT Risk Management & Threat Modeling lab</h1>
 
 <h2>Description</h2>
-In this lab we are going to walk through how to conduct a cybersecurity risk management process in accordance to NIST SP 800-30. We will customise the framework to make it applicable to our organisation and industry a SME (Small Medium Enterprise company). We will also learn how to conduct threat modeling using a simple method. We will semi-quantitatively analyze cybersecurity risk using NIST SP 800-30 methodology to identify highest risk weaknesses for a system.
+In this lab we are going to walk through how to conduct an information technology risk management process using risk scenarios for the organisation. We will conduct the risk assessment to our organisation a SME (Small Medium Enterprise company). We will also learn how to conduct cyber security threat modeling using a simple method. We will quantitatively analyze and calculate the organisation IT risk to identify highest risk areas that the organisation can prioritize.
 <br />
 
 <h2>Utilities Used</h2>
 
 - <b>Microsoft excel </b> 
-- <b>NIST SP 800-30</b>
+- <b>ISACA Risk scenarios </b>
+- <b> COBIT 19 Framework </b>
 
 <h2> Threat Modeling </h2>
 
@@ -47,19 +48,21 @@ You need to stay informed every single day,stay up to date with current news. Li
 
 <h2> Conclusion :</h2>
 Threat modeling is an important tool in the cybersecurity toolkit, helping organizations to stay ahead of evolving threats and protect against potential security breaches
-  
-RISK ASSESSMENT <br/>
+
 <br />
   
-< Define the purpose>
-  
-PURPOSE  <br/>
- - Information and systems are used by the company to deliver value to our customers and business partners.As such the information has a value and must be protected accoradance with its sensitivity.
+<h2>RISK MANAGEMENT </h2>
+
+Risk Management<br/>
+
+Risk management process involves identify processes or systems that may have areas that are not operating effectively and/or efficiently that could put the enterprise at risk.
+
+One technique for conducting risk assessment is to use risk scenarios.
+
+Risk scenarios facilitate communication in risk management by constructing a narrative that can inspire people to act. The use of risk scenarios can enhance the risk management effort by helping the risk team understand and explain risk to business process owners and other stakeholders. Additionally, a well-developed scenario provides a realistic and practical view of risk that is more aligned with business objectives, historical events and emerging threats forecasted by the organization than would be found by consulting a broadly applicable standard or catalog of controls. These benefits make risk scenarios valuable as a means of gathering and framing information used in subsequent steps in the risk management process.
+
+The core approach of using risk scenarios is to brings realism, insight, organizational engagement, improved analysis and structure to the complex matter of I&T risk. Once scenarios are developed, they are used during the risk analysis phase, in which frequency and business impacts are estimated.
  
- - This policy outlines the expectations and behaviors of the organisation to protect those systems,applications and information confidentiality,integrity and availability
- 
- - This policies approach is to comprehensively provide the full scope of policy for delivering sound information security to the organisation.
 <br />
  
-< Define the Scope of the policy>
 
