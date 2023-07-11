@@ -17,6 +17,8 @@ In this lab we are going to walk through how to conduct an information technolog
 - <b> Threat modeling is a systematic approach to identifying and analyzing potential threats to a system or organization's security, and determining the potential impact of these threats. 
 -Threat modeling involves identifying potential vulnerabilities in a system or network, and evaluating the likelihood and impact of various threats exploiting those  vulnerabilities.
 - In simple terms threat modeling is identifying what kind of threats affect an environment or organisation.
+
+  <img src="https://www.eccouncil.org/wp-content/uploads/2023/01/Asset-4-8.png.webp"/>
  
  <h2>Objective of threat modeling </h2>
 The objective of threat modeling is to enable you to better understand the security risks associated with a system or organisation, so that you can prioritize security measures and allocate resources more effectively.By identifying and prioritizing potential threats,you can develop more effective security controls and respond more quickly to security incidents.
@@ -56,6 +58,8 @@ Threat modeling is an important tool in the cybersecurity toolkit, helping organ
 Risk Management<br/>
 
 Risk management process involves identify processes or systems that may have areas that are not operating effectively and/or efficiently that could put the enterprise at risk.
+
+<img src="https://www.opscentre.com/wp-content/uploads/2017/07/bigstock-Risk-management-in-word-tag-cl-21022796.jpg"/>
 
 One technique for conducting risk assessment is to use risk scenarios.
 
