@@ -15,7 +15,7 @@ In this lab we are going to walk through how to conduct an information technolog
 <h2> Threat Modeling </h2>
 
 - <b> Threat modeling is a systematic approach to identifying and analyzing potential threats to a system or organization's security, and determining the potential impact of these threats. 
--Threat modeling involves identifying potential vulnerabilities in a system or network, and evaluating the likelihood and impact of various threats exploiting those  vulnerabilities.
+- Threat modeling involves identifying potential vulnerabilities in a system or network, and evaluating the likelihood and impact of various threats exploiting those  vulnerabilities.
 - In simple terms threat modeling is identifying what kind of threats affect an environment or organisation.
 
   <img src="https://www.eccouncil.org/wp-content/uploads/2023/01/Asset-4-8.png.webp"/>
